@@ -1,0 +1,15 @@
+.bukva {
+    color: red;
+}
+.block {
+    border: 2px solid brown;
+    border-radius: 25px;
+    width: 500px;
+    height: 370px;
+    padding-top: 30px;
+    margin-top: 2%;
+    margin-right: 25%;
+    padding-right: 20px;
+    margin-left: 35%;
+    padding-left: 20px;
+}
